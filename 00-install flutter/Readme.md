@@ -6,7 +6,7 @@
 ### Prerequisites
 
 
-You need to create flutter project  before starting development, you can do this by running following command in your terminal:
+You need to create flutter project  before starting development, you can do this in your terminal:
 
   ```sh
   Flutter create project
